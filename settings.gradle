@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "LamdaCallbacks"
+rootProject.name = "HiltScopes"
 include ':app'

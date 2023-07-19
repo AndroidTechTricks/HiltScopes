@@ -1,4 +1,4 @@
-package com.flipbay.lamdacallbacks
+package com.flipbay.hiltscopes
 
 import org.junit.Test
 
